@@ -1,0 +1,15 @@
+# Site navigation links
+
+- title: Om
+  url: /about/
+  excerpt: "About page"
+  #image:
+
+- title: Klädsel
+  url: /clothes/
+
+- title: Festen
+  url: /festen/
+
+- title: Ta sig till vigseln
+  url: /directions/
