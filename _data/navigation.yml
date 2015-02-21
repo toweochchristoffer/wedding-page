@@ -2,14 +2,17 @@
 
 - title: Om
   url: /about/
-  excerpt: "About page"
+  #excerpt: "About page"
   #image:
 
 - title: Klädsel
   url: /clothes/
+  excerpt: "Information om klädseln som väntas."
 
 - title: Festen
   url: /festen/
+  excerpt: "Vägbeskrivning till festen, information om mat"
 
 - title: Ta sig till vigseln
   url: /directions/
+  excerpt: "Vägbeskrivning till vigseln, information om platsen"
