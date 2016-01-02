@@ -1,7 +1,7 @@
 ---
 layout: article
 permalink: /
-title: "Latest Posts"
+title: "Front page"
 ---
 
 <div class="tiles">
