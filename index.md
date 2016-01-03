@@ -5,4 +5,5 @@ title: "Front page"
 ---
 
 [Bild på oss]  
-[Allmän information]
+[Allmän information]  
+Vi ska gifta oss (!) och denna hemsida som du nu har landat på kommer guida dig till det allra viktigaste, så som klädsel, plats för vigseln och festen och så vidare. 
