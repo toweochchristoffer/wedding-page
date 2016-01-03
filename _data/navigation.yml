@@ -1,10 +1,5 @@
 # Site navigation links
 
-- title: Om
-  url: /about/
-  #excerpt: "About page"
-  #image:
-
 - title: Klädsel
   url: /clothes/
   excerpt: "Information om klädseln som väntas."
