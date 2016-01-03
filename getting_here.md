@@ -23,5 +23,5 @@ Förslagsvis så åker ni via Säter, för att sedan åka till Silvberg därifr�
 Festen kommer att hållas på logen vid Älvgården 9 i Hedemora, Älvgården busstation, alldeles innan man kör in i Ivarhyttan, norrifrån. Mitt emot Älvgårdens Behandlingshem.  
 Man följer riksväg 270 norrut från rondellen i Hedemora. 
 
-GPS koordinater: 60.346021, 16.044708
+GPS koordinater: 60.346021, 16.044708  
 Address: Älvgården 9, 776 90 Hedemora
