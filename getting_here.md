@@ -19,7 +19,7 @@ Förslagsvis så åker ni via Säter, för att sedan åka till Silvberg därifr�
 
 ## Festen
 
-<img src="https://maps.googleapis.com/maps/api/staticmap?center=60.346021,16.044708&zoom=14&size=400x400&maptype=hybrid&markers=color:red|60.346021,16.044708" />
+<img src="https://maps.googleapis.com/maps/api/staticmap?center=60.346021,16.044708&zoom=14&size=400x400&maptype=hybrid&markers=color:red|60.346021,16.044708" />  
 Festen kommer att hållas på logen vid Älvgården 9 i Hedemora, Älvgården busstation, alldeles innan man kör in i Ivarhyttan, norrifrån. Mitt emot Älvgårdens Behandlingshem.  
 Man följer riksväg 270 norrut från rondellen i Hedemora. 
 
