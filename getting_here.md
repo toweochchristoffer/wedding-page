@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Ta sig till vigseln
+title: Körbeskrivning
 permalink: /directions/
 ---
 ## Vigseln
