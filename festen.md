@@ -9,3 +9,5 @@ permalink: /festen/
 Vigseln äger rum vid Silvbergs gruva i Säter. Det finns begränsade parkeringsmöjligheter så samåkning rekomenderas starkt. Det kommer finnas en “pensionärsparkering” nära vigselplatsen för de som behöver.  
 Festen kommer hållas på Aspnäs loge i Hedemora. Vi bjuder på mat, en mindre mängd alkohol, kaffe och tårta.  
 **Vill du ta med egen dryck är det helt okej, kom bara ihåg att du är med och förgyller vår kväll. Förstör den inte genom att vara opassande onykter.**
+
+**Festen är för vuxna och inte för barn. Vi rekommenderar att ni lämnar dem hemma för allas trevnad!**
