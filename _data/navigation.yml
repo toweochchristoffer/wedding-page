@@ -1,13 +1,16 @@
 # Site navigation links
-
-- title: Klädsel
-  url: /clothes/
-  excerpt: "Information om klädseln som väntas."
+- title: Vigseln
+  url: /vigseln/
+  excerpt: "Information om vigseln"
+  
+- title: Ta sig till vigseln
+  url: /directions/
+  excerpt: "Vägbeskrivningar, information om platserna"
 
 - title: Festen
   url: /festen/
-  excerpt: "Vägbeskrivning till festen, information om mat"
-
-- title: Ta sig till vigseln
-  url: /directions/
-  excerpt: "Vägbeskrivning till vigseln, information om platsen"
+  excerpt: "Information om mat, och mer"
+  
+- title: Klädsel
+  url: /clothes/
+  excerpt: "Information om klädseln som väntas."
