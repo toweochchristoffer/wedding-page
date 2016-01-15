@@ -2,14 +2,14 @@
 - title: Vigseln
   url: /vigseln/
   excerpt: "Information om vigseln"
-  
-- title: Vägbeskrivningar
-  url: /directions/
-  excerpt: "Vägbeskrivningar, information om platserna"
 
 - title: Festen
   url: /festen/
   excerpt: "Information om mat, och mer"
+  
+- title: Vägbeskrivningar
+  url: /directions/
+  excerpt: "Vägbeskrivningar, information om platserna"
   
 - title: Klädsel
   url: /clothes/
