@@ -25,3 +25,6 @@ Man följer riksväg 270 norrut från rondellen i Hedemora.
 
 GPS koordinater: 60.346021, 16.044708  
 Address: Älvgården 9, 776 90 Hedemora
+
+## Från vigseln till festen
+<iframe width="500" height="350" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/directions?origin=60.347930%2C%2015.585009&destination=%C3%84lvg%C3%A5rden%209%20Hedemora&key=AIzaSyD44ErNisonZOR7gDzNh9FtB3jOBBjr36w" allowfullscreen></iframe>
