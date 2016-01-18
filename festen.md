@@ -9,6 +9,6 @@ Festen kommer hållas på Aspnäs loge i Hedemora. Vi bjuder på mat, en mindre 
 
 Spex/tal/annat logistiskt krävande meddelas till toastmasterparet [information här].
 
-### Vill du ta med egen dryck är det helt okej, kom bara ihåg att du är med och förgyller vår kväll. Förstör den inte genom att vara opassande onykter.
+Vill du ta med egen dryck är det helt okej, kom bara ihåg att du är med och förgyller vår kväll. Förstör den inte genom att vara opassande onykter.
 
-#### Festen är för vuxna och inte för barn. Vi rekommenderar att ni lämnar dem hemma för allas trevnad!
+Festen är för vuxna och inte för barn. Vi rekommenderar att ni lämnar dem hemma för allas trevnad!
