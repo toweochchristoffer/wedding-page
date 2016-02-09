@@ -15,8 +15,6 @@ sass:
 permalink: /:categories/:title/
 markdown: kramdown
 highlighter: rouge
-gems:
-  - jekyll-sitemap
 
 
 # Site owner
