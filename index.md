@@ -1,7 +1,7 @@
 ---
 layout: article
 permalink: /
-title: ""
+title: "Hem"
 ---
 
 [Bild på oss]  
