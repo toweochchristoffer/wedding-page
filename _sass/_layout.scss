@@ -94,8 +94,7 @@
 	}
 	li {
 		a {
-			font-weight: 700;
-			@include font-size(16,no);
+		  font-size: 1.7rem;
 			line-height: .5 * $masthead-height; // half the height to center vertically
 			color: $black;
 		}
