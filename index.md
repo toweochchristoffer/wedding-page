@@ -1,7 +1,7 @@
 ---
 layout: article
 permalink: /
-title: "Front page"
+title: ""
 ---
 
 [Bild på oss]  
