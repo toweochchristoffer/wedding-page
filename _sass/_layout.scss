@@ -1,6 +1,9 @@
 // MASTHEAD
 // --------------------------------------------------
 
+h1, h2, h3, h4, h5, h6 {
+	font-weight: 300;
+}
 #masthead {
 	padding: $gutter;
 	z-index: 5;
@@ -84,7 +87,6 @@
 		@include span-columns(7);
 		ul {
 			position: absolute;
-			right: 0;
 		}
 	}
 	.home,
@@ -93,7 +95,7 @@
 	}
 	li {
 		a {
-		  font-size: 1.7rem;
+		  font-size: 1.9rem;
 			line-height: .5 * $masthead-height; // half the height to center vertically
 			color: $black;
 		}
@@ -120,6 +122,9 @@
 	@include transition(500ms cubic-bezier(.645,.045,.355,1.000));
 	&.slide {
 		@include transform(translate(-60rem,0));
+	}
+	h1,h2,h3,h4,h5,h6 {
+		font-family: 'Lora', serif;
 	}
 }
 
