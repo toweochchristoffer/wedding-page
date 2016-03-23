@@ -13,4 +13,4 @@ Linn Söderlund på 073-93 69 500.
 
 Vill du ta med egen dryck är det helt okej, kom bara ihåg att du är med och förgyller vår kväll. Förstör den inte genom att vara opassande onykter.
 
-Festen är för vuxna och inte för barn. Vi rekommenderar att ni lämnar dem hemma för allas trevnad!
+Festen är för vuxna och inte för barn. Vi rekommenderar att ni lämnar dem hemma för allas trevnad! Självklart är ammande barn ett undantag.
