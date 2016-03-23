@@ -11,6 +11,10 @@ Vi ser gärna att ni både spexar och håller tal. Om ni vill göra det, meddela
 Andreas Blomqvist på 070-22 95 322, eller  
 Linn Söderlund på 073-93 69 500.
 
+
 Vill du ta med egen dryck är det helt okej, kom bara ihåg att du är med och förgyller vår kväll. Förstör den inte genom att vara opassande onykter.
+
+Om ni vill ge oss en bröllopspresent får ni gärna bidra till vår bröllopsresa!
+Sätt in valfritt belopp på 6460-982 299 028 och skriv era namn på insättningen så vi vet vem det är ifrån. Tusen tack! 
 
 Festen är för vuxna och inte för barn. Vi rekommenderar att ni lämnar dem hemma för allas trevnad! Självklart är ammande barn ett undantag.
